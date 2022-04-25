@@ -1,0 +1,18 @@
+body{
+    background-color: #00754A;
+    color: #D4E9E2;
+    font-family: 'Pacifico', cursive;
+}
+p{
+    color: #fff;
+}
+i{
+    font-size: 15em;
+}
+.cent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+    margin: 28vh;
+}
